@@ -1,2 +1,1 @@
 # Python
-study project 
